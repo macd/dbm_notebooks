@@ -12,3 +12,5 @@ python_chap1_matlab_quide.ipynb: A Python translation of the same to a Jupyter
 TextAnalyticsProject.ipynb:  Small class project for analyzing a small database
                              of abstracts on papers about Synthetic Biology.
 
+The Genius of Pyjnius.ipynb:  Using the Java libraries Tika and the Stanford
+                              CoreNLP in Python by way of pyjnius
