@@ -14,3 +14,5 @@ TextAnalyticsProject.ipynb:  Small class project for analyzing a small database
 
 The Genius of Pyjnius.ipynb:  Using the Java libraries Tika and the Stanford
                               CoreNLP in Python by way of pyjnius
+
+ringdown_fit.ipynb:  A fit of complex exponentials to the gravity wave GW150914
